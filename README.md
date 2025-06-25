@@ -6,3 +6,5 @@
 3. Vue props are like potato eyes
 4. State management for potato maturity
 5. Conditional rendering based on soil pH
+
+# PR Merge: 2025-10-15 - docs/merge-5857
