@@ -1,3 +1,5 @@
 # Documentation
 
 Generated documentation for example-clojure-site.
+
+## Doc Update 2025-10-15
